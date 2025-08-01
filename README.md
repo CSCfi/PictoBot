@@ -4,14 +4,14 @@
 
 A Python chatbot that can describe and reason about images using OpenAI's `gpt-4o`.
 
-**## 🚀 Features**
+## 🚀 Features
 
 - Supports text + image input
 - Uses GPT-4o (vision model)
 - API-key secured
 - Easy to run with a few lines of code
 
-**## 🔧 Setup**
+## 🔧 Setup
 
 1. Clone the repo
 2. Install dependencies:
@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ```
 
-**##Creat your .env file**
+##Creat your .env file
 
 Create this .env fiel and add you OpenAI API key in it.
 ```bash
@@ -29,5 +29,5 @@ cp .env.example .env
 
 ```
 
-##Acknowledgement
+#Acknowledgement
 1. Project was built upon oconnoob project: chatgpt-image-interface: https://github.com/AssemblyAI-Community/chatgpt-image-interface/tree/main
