@@ -1,6 +1,6 @@
 # vision_chatbot
 
-**# 🧠 GPT-4 Image ChatBot**
+# 🧠 GPT-4 Image ChatBot
 
 A Python chatbot that can describe and reason about images using OpenAI's `gpt-4o`.
 
