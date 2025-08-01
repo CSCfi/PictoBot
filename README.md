@@ -1,4 +1,4 @@
-# vision_chatbot
+# PictoBot
 
 # 🧠 GPT-4 Image ChatBot
 
