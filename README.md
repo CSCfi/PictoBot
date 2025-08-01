@@ -29,5 +29,9 @@ cp .env.example .env
 
 ```
 
+## Run the code
+
+You can downloas and run the chat-2.ipynb in notebook or directly in a terminal. you can add picutre of your own choice and ask any question out of it. 
+
 # Acknowledgement
 1. Project was built upon oconnoob project: chatgpt-image-interface: https://github.com/AssemblyAI-Community/chatgpt-image-interface/tree/main
