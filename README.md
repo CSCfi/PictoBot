@@ -21,7 +21,7 @@ pip install -r requirements.txt
 
 ```
 
-##Creat your .env file
+## Creat your .env file
 
 Create this .env fiel and add you OpenAI API key in it.
 ```bash
@@ -29,5 +29,5 @@ cp .env.example .env
 
 ```
 
-#Acknowledgement
+# Acknowledgement
 1. Project was built upon oconnoob project: chatgpt-image-interface: https://github.com/AssemblyAI-Community/chatgpt-image-interface/tree/main
